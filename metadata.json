@@ -1,0 +1,6 @@
+{
+  "name": "LeadPulse AI - Bot Acquisizione Clienti & Conversione",
+  "description": "Bot AI intelligente per trovare clienti sul web e social (Instagram, LinkedIn, X), lanciare broadcast personalizzati e gestire automaticamente le conversazioni per massimizzare le conversioni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
